@@ -1,5 +1,5 @@
 const clientId = '1f54c2244d494eb794495c1a79f0f5eb';
-const redirectUri = 'http://localhost:3000/';
+const redirectUri = 'https://alexracape.github.io/athollo/';
 let accessToken;
 
 const Spotify = {
