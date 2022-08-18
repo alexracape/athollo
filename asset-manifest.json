@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/athollo/static/css/main.90b91c45.chunk.css",
-    "main.js": "/athollo/static/js/main.b01b22fb.chunk.js",
-    "main.js.map": "/athollo/static/js/main.b01b22fb.chunk.js.map",
+    "main.js": "/athollo/static/js/main.66c27768.chunk.js",
+    "main.js.map": "/athollo/static/js/main.66c27768.chunk.js.map",
     "runtime-main.js": "/athollo/static/js/runtime-main.394dee96.js",
     "runtime-main.js.map": "/athollo/static/js/runtime-main.394dee96.js.map",
     "static/js/2.03cef04c.chunk.js": "/athollo/static/js/2.03cef04c.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.394dee96.js",
     "static/js/2.03cef04c.chunk.js",
     "static/css/main.90b91c45.chunk.css",
-    "static/js/main.b01b22fb.chunk.js"
+    "static/js/main.66c27768.chunk.js"
   ]
 }
